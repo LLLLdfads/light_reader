@@ -6,12 +6,12 @@
 
 ### 平移
 
-<video src="doc/slide.mp4" controls width="280"></video>
+<img src="doc/slide.gif" width="280" />
 
 ### 覆盖
 
-<video src="doc/cover.mp4" controls width="280"></video>
+<img src="doc/cover.gif" width="280" />
 
 ### 仿真
 
-<video src="doc/simulate.mp4" controls width="280"></video>
+<img src="doc/simulate.gif" width="280" />
